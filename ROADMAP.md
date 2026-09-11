@@ -1,1 +1,0 @@
-# AzerothCore Server Manager Pro -
