@@ -1,0 +1,16 @@
+﻿# Local configurations with personal credentials
+azeroth_gui.config.json
+
+# Application runtime logs
+logs/*.log
+!logs/.gitkeep
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store

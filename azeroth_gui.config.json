@@ -1,0 +1,19 @@
+﻿{
+    "SoapPassword":  "",
+    "MinimizeToTray":  false,
+    "SoapUser":  "admin",
+    "SshKeyPath":  "",
+    "User":  "azeroth",
+    "Language":  "en",
+    "SshTimeoutMilliseconds":  15000,
+    "ServerIP":  "127.0.0.1",
+    "BackupRetentionCount":  7,
+    "SoapPort":  7878,
+    "LogFile":  "logs/azeroth_gui.log",
+    "ServiceNames":  [
+                         "acore-authserver",
+                         "acore-worldserver"
+                     ],
+    "AutoRefreshSeconds":  30,
+    "Password":  ""
+}
