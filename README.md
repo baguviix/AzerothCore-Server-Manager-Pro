@@ -1,5 +1,7 @@
 # AzerothCore Server Manager Pro ⚔️🛡️
 
+![AzerothCore Server Manager Pro Banner](banner.jpg)
+
 A modern, fast, modular, and lightweight GUI Server Management Desktop Application for **AzerothCore (WoW 3.3.5a)** written in PowerShell & Windows Forms. Designed for server owners, administrators, and GM teams to manage remote Linux servers seamlessly without terminal hassle.
 
 ---
